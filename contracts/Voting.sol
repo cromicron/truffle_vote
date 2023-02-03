@@ -1,5 +1,5 @@
 pragma solidity 0.8.7;
-import "./RegistrationSimple.sol";
+import "./Register.sol";
     contract VotingContract {
         
         uint256 EndElectionTime;

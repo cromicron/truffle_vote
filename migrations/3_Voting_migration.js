@@ -1,4 +1,3 @@
-
 const Voting = artifacts.require("VotingContract");
 const theQuestion = web3.utils.asciiToHex("what is superior?");
 const candidateNames = [web3.utils.asciiToHex("chocolate"), web3.utils.asciiToHex("vanilla")]
